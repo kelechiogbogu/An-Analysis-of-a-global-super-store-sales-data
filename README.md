@@ -13,7 +13,7 @@ This analysis was conducted to answer ten important business questions to guide 
 
 
 #### Data Cleaning and Preparation
-To ensure the data was free from data quality issues, i took steps to check for missing values, duplicate rows and also converted columns that were not in the right format to the appropraiate format.
+To ensure the data was free from data quality issues, i took steps to check for missing values, duplicate rows and also converted columns that were not in the right format to the appropraiate format. After the data preparation, I went straight into the Analysis. Stated below, are my findings followed by recommendations.
 
 
 #### Findings
